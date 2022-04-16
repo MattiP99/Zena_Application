@@ -4,7 +4,8 @@ Un'Applicazione per promuovere il turismo, l'arte, la storia e la cultura del me
 Questa è un'idea di Marco Tonnarelli e di Mattia Piras: 
 ### Diritti riservati
 
-<img width="491" alt="zena_enter" src="https://user-images.githubusercontent.com/92534255/163574540-f78175c2-26f0-4d7a-8ff8-95702dfc6146.png">
+
+![genova_banner_dashboard](https://user-images.githubusercontent.com/92534255/163691854-9ccb3c98-efdb-4a23-98a5-4900591612eb.png)
 
 
 # SEZIONI DELL'APPLICAZIONE:)
