@@ -12,12 +12,12 @@ Questa è un'idea di Marco Tonnarelli e di Mattia Piras:
  Vedere il video esplicativo per capire le varie sezioni. Questa desrizione si basa sequanzialmente su cosa viene mostrato in esso.
 
 ## CARICAMENTO
-![#f03c15] ______________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________
 
  - 1: La prima parte e' la pagina di caricamento. Questo lasso di tempo viene usato per caricare i dati dal database.
  
 ## HOME PAGE
-![#f03c15] _______________________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________________________
 
  - 2: All'apertura siamo scaraventati nella pagina principale (home, per gli amici inglesi) in cui sono ben distinte le quattro categorie selezionabili, Musei, Rolli, Parchi e Chiese.
     - Leggermente piu' in basso e' presente una lista scorrevole in cui sono visualizzati i siti di interesse piu' popolari. Il loro voto, ovviamente, e' una media tra tutti i voti che gli utenti registrati all'applicazione hanno lasciato.
@@ -28,7 +28,7 @@ Questa è un'idea di Marco Tonnarelli e di Mattia Piras:
 
 
 ## LUOGO DI INTERESSE 
-![#f03c15] ___________________________________________________________________________________________________________________
+___________________________________________________________________________________________________________________
  
  - 3: Una volta cliccato uno dei simboli raffiguranti il sito prescelto, musei in questo caso, veniamo sbalzati in una pagina con tutti i luoghi di quella categoria presenti all'interno del database. Scorrendo questa pagina si possono trovare veramente tantissime scelte tra cui optare.
 Inoltrandoci nella pagina di uno di questi, lanterna di Genova per esempio possiamo notare:
@@ -42,7 +42,7 @@ Inoltrandoci nella pagina di uno di questi, lanterna di Genova per esempio possi
    - Una descrizione artistico-storica dettagliata per catturare l'attenzione degli appassionati e per educare i piu' giovani (e non solo, perche' non si finisce mai di imparare) in un un modo diverso dal solito.
 
 ## MAPPA
-![#f03c15] __________________________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________________________
 
 - 4: Passando ora alla mappa notiamo che:
     - La zona centrale di Genova e' visualizzata
@@ -52,12 +52,12 @@ Inoltrandoci nella pagina di uno di questi, lanterna di Genova per esempio possi
     - Cliccando su uno dei posti scelti, appare una breve descrizione e altri 3 pulsanti. Questi permettono di creare un percorso dalla posizione dell'utente a quella della meta in tre semplici modi, a piedi, in autobus o in macchina.
 
 ## CHI SIAMO
-![#f03c15] _____________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________
 
 - 5: Arriviamo cosi' alla pagina del "Chi siamo", dove oltre al spiegare appunto chi siamo e quale sarebbe lo scopo dell'applicazione, e' presente un form per poter mandare una mail agli sviluppatori (cioe' noi) per poter fare domande, indicare un posto interessante che non e' stato inserito tra quelli della sua categoria oppure indicare errori nelle pagine di quelli gia' presenti. Per potere far cio' l'utente deve essere registrato.
 
 ## PROFILO
-![#f03c15] _______________________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________________________
 
 - 6: Per ultimo ma non per importanza abbiamo la pagina del profilo. Dopo aver acceduto (o dopo esserci registrati, nel caso di nuovi utenti) entriamo nella pagina dedicata soltanto alla singola persona possedente un'account. Questa puo', d'ora in avanti:
 
