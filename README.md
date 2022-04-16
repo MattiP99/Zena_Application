@@ -1,13 +1,14 @@
 # Zena_Application
-Un'Applicazione per promuovere il turismo. l'arte, la storia e la cultura del meraviglioso capoluogo Ligure
+Un'Applicazione per promuovere il turismo, l'arte, la storia e la cultura del meraviglioso capoluogo ligure
 
-Questa è un'Idea di Marco Tonnarelli e di Mattia Piras: 
+Questa è un'idea di Marco Tonnarelli e di Mattia Piras: 
 ### Diritti riservati
 
 <img width="491" alt="zena_enter" src="https://user-images.githubusercontent.com/92534255/163574540-f78175c2-26f0-4d7a-8ff8-95702dfc6146.png">
 
 
-# SEZIONI DELL'APPLICAZIONE:
+# SEZIONI DELL'APPLICAZIONE:)
+ Vedere il video esplicativo per capire le varie sezioni. Questa desrizione si basa sequanzialmente su cosa viene mostrato in esso.
 
 ## CARICAMENTO
 ______________________________________________________________________________________________________________________________
