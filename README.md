@@ -6,11 +6,13 @@ Un'Applicazione per promuovere il turismo. l'arte, la storia e la cultura del me
 
 Sezioni dell'Applicazione:
 
- ________CARICAMENTO_____________________________________________________________________________________________________________________
+#CARICAMENTO
+______________________________________________________________________________________________________________________________
 
  - 1: La prima parte e' la pagina di caricamento. Questo lasso di tempo viene usato per caricare i dati dal database.
-
-_________ HOME PAGE______________________________________________________________________________________________________________________
+ 
+#HOME PAGE
+_______________________________________________________________________________________________________________________________
 
  - 2: All'apertura siamo scaraventati nella pagina principale (home, per gli amici inglesi) in cui sono ben distinte le quattro categorie selezionabili, Musei, Rolli, Parchi e Chiese.
         _ Leggermente piu' in basso e' presente una lista scorrevole in cui sono visualizzati i siti di interesse piu' popolari. Il loro voto, ovviamente, e' una media tra tutti i voti che gli utenti registrati all'applicazione hanno lasciato.
@@ -18,7 +20,8 @@ _________ HOME PAGE_____________________________________________________________
         _ Sotto ancora, sempre nella pagina centrale, troviamo una breve descrizione per un maggior conivolgimento del lettore.
 
 
-________ LUOGO DI INTERESSE ___________________________________________________________________________________________________________
+#LUOGO DI INTERESSE 
+___________________________________________________________________________________________________________________
 
  - 3: Una volta cliccato uno dei simboli raffiguranti il sito prescelto, musei in questo caso, veniamo sbalzati in una pagina con tutti i luoghi di quella categoria presenti all'interno del database. Scorrendo questa pagina si possono trovare veramente tantissime scelte tra cui optare.
     _ Inoltrandoci nella pagina di uno di questi, lanterna di Genova per esempio possiamo notare:
@@ -27,7 +30,8 @@ ________ LUOGO DI INTERESSE ____________________________________________________
         - Orari di apertura e chiusura del sito
         - Una descrizione artistico-storica dettagliata per catturare l'attenzione degli appassionati e per educare i piu' giovani (e non solo, perche' non si finisce mai di imparare) in un un modo diverso dal solito.
 
-________ MAPPA __________________________________________________________________________________________________________________________
+#MAPPA
+__________________________________________________________________________________________________________________________________
 
 - 4: Passando ora alla mappa notiamo che:
     - La zona centrale di Genova e' visualizzata
@@ -36,11 +40,13 @@ ________ MAPPA _________________________________________________________________
     - Un pulsante alla sua sinistra che permette di visionare la propria posiazione
     - Cliccando su uno dei posti scelti, appare una breve descrizione e altri 3 pulsanti. Questi permettono di creare un percorso dalla posizione dell'utente a quella della meta in tre semplici modi, a piedi, in autobus o in macchina.
 
-_______ CHI SIAMO ______________________________________________________________________________________________________________________
+#CHI SIAMO
+_____________________________________________________________________________________________________________________________
 
 - 5: Arriviamo cosi' alla pagina del "Chi siamo", dove oltre al spiegare appunto chi siamo e quale sarebbe lo scopo dell'applicazione, e' presente un form per poter mandare una mail agli sviluppatori (cioe' noi) per poter fare domande, indicare un posto interessante che non e' stato inserito tra quelli della sua categoria oppure indicare errori nelle pagine di quelli gia' presenti. Per potere far cio' l'utente deve essere registrato.
 
-_____ PROFILO __________________________________________________________________________________________________________________________
+#PROFILO
+_______________________________________________________________________________________________________________________________
 
 - 6: Per ultimo ma non per importanza abbiamo la pagina del profilo. Dopo aver acceduto (o dopo esserci registrati, nel caso di nuovi utenti) entriamo nella pagina dedicata soltanto alla singola persona possedente un'account. Questa puo', d'ora in avanti:
     - Salvarsi mete che ha addocchiato tra  i suoi prefereiti
