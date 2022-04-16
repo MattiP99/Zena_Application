@@ -19,12 +19,11 @@ ________________________________________________________________________________
 _______________________________________________________________________________________________________________________________
 
  - 2: All'apertura siamo scaraventati nella pagina principale (home, per gli amici inglesi) in cui sono ben distinte le quattro categorie selezionabili, Musei, Rolli, Parchi e Chiese.
- 
-       - Leggermente piu' in basso e' presente una lista scorrevole in cui sono visualizzati i siti di interesse piu' popolari. Il loro voto, ovviamente, e' una media tra tutti i voti che gli utenti registrati all'applicazione hanno lasciato.
+ - Leggermente piu' in basso e' presente una lista scorrevole in cui sono visualizzati i siti di interesse piu' popolari. Il loro voto, ovviamente, e' una media tra tutti i voti che gli utenti registrati all'applicazione hanno lasciato.
         
-       - Troviamo quindi un'altra lista, che, semplicemente mostra altri luoghi caratteristici per dare all'utilizzatore dell'applicazione un'idea di cosa trovera' in seguito.
+ - Troviamo quindi un'altra lista, che, semplicemente mostra altri luoghi caratteristici per dare all'utilizzatore dell'applicazione un'idea di cosa trovera' in seguito.
         
-       -  Sotto ancora, sempre nella pagina centrale, troviamo una breve descrizione per un maggior conivolgimento del lettore.
+ -  Sotto ancora, sempre nella pagina centrale, troviamo una breve descrizione per un maggior conivolgimento del lettore.
 
 
 ## LUOGO DI INTERESSE 
@@ -33,13 +32,13 @@ ________________________________________________________________________________
  - 3: Una volta cliccato uno dei simboli raffiguranti il sito prescelto, musei in questo caso, veniamo sbalzati in una pagina con tutti i luoghi di quella categoria presenti all'interno del database. Scorrendo questa pagina si possono trovare veramente tantissime scelte tra cui optare.
 Inoltrandoci nella pagina di uno di questi, lanterna di Genova per esempio possiamo notare:
 
-        - Vi sono 5 immagini per ogni posto che facciamo risaltare quest'ultimo in ogni suo profilo
+   - Vi sono 5 immagini per ogni posto che facciamo risaltare quest'ultimo in ogni suo profilo
         
-        - L'indirizzo del posto; via e interno(se presenti ovviamente) saranno visualizzati (Nel caso si cliccasse sull'icona della mappa, l'utente entrerebbe gia' in questa con visualizzato in essa il luogo che stava visionando )
+   - L'indirizzo del posto; via e interno(se presenti ovviamente) saranno visualizzati (Nel caso si cliccasse sull'icona della mappa, l'utente entrerebbe gia' in questa con visualizzato in essa il luogo che stava visionando )
         
-        - Orari di apertura e chiusura del sito
+   - Orari di apertura e chiusura del sito
         
-        - Una descrizione artistico-storica dettagliata per catturare l'attenzione degli appassionati e per educare i piu' giovani (e non solo, perche' non si finisce mai di imparare) in un un modo diverso dal solito.
+   - Una descrizione artistico-storica dettagliata per catturare l'attenzione degli appassionati e per educare i piu' giovani (e non solo, perche' non si finisce mai di imparare) in un un modo diverso dal solito.
 
 ## MAPPA
 __________________________________________________________________________________________________________________________________
@@ -61,11 +60,11 @@ ________________________________________________________________________________
 
 - 6: Per ultimo ma non per importanza abbiamo la pagina del profilo. Dopo aver acceduto (o dopo esserci registrati, nel caso di nuovi utenti) entriamo nella pagina dedicata soltanto alla singola persona possedente un'account. Questa puo', d'ora in avanti:
 
-    - Salvarsi mete che ha addocchiato tra  i suoi prefereiti
+   - Salvarsi mete che ha addocchiato tra  i suoi prefereiti
     
-    - Mandare una mail per svariate ragione (come mezionato prima)
+   - Mandare una mail per svariate ragione (come mezionato prima)
     
-    - Dare un voto da 0 a 5 ad ogni posto visto
+   - Dare un voto da 0 a 5 ad ogni posto visto
     
-    - Scegliere una foto profilo cosi che gli altri utenti possano riconoscerlo
+   - Scegliere una foto profilo cosi che gli altri utenti possano riconoscerlo
     
