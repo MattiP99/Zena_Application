@@ -1,17 +1,18 @@
 # Zena_Application
 Un'Applicazione per promuovere il turismo. l'arte, la storia e la cultura del meraviglioso capoluogo Ligure
+Idea di Marco Tonnarelli e di Mattia Piras:
 
 <img width="491" alt="zena_enter" src="https://user-images.githubusercontent.com/92534255/163574540-f78175c2-26f0-4d7a-8ff8-95702dfc6146.png">
 
 
-Sezioni dell'Applicazione:
+## SEZIONI DELL'APPLICAZIONE:
 
-#CARICAMENTO
+# CARICAMENTO
 ______________________________________________________________________________________________________________________________
 
  - 1: La prima parte e' la pagina di caricamento. Questo lasso di tempo viene usato per caricare i dati dal database.
  
-#HOME PAGE
+# HOME PAGE
 _______________________________________________________________________________________________________________________________
 
  - 2: All'apertura siamo scaraventati nella pagina principale (home, per gli amici inglesi) in cui sono ben distinte le quattro categorie selezionabili, Musei, Rolli, Parchi e Chiese.
@@ -20,7 +21,7 @@ ________________________________________________________________________________
         _ Sotto ancora, sempre nella pagina centrale, troviamo una breve descrizione per un maggior conivolgimento del lettore.
 
 
-#LUOGO DI INTERESSE 
+# LUOGO DI INTERESSE 
 ___________________________________________________________________________________________________________________
 
  - 3: Una volta cliccato uno dei simboli raffiguranti il sito prescelto, musei in questo caso, veniamo sbalzati in una pagina con tutti i luoghi di quella categoria presenti all'interno del database. Scorrendo questa pagina si possono trovare veramente tantissime scelte tra cui optare.
@@ -30,7 +31,7 @@ ________________________________________________________________________________
         - Orari di apertura e chiusura del sito
         - Una descrizione artistico-storica dettagliata per catturare l'attenzione degli appassionati e per educare i piu' giovani (e non solo, perche' non si finisce mai di imparare) in un un modo diverso dal solito.
 
-#MAPPA
+# MAPPA
 __________________________________________________________________________________________________________________________________
 
 - 4: Passando ora alla mappa notiamo che:
@@ -40,12 +41,12 @@ ________________________________________________________________________________
     - Un pulsante alla sua sinistra che permette di visionare la propria posiazione
     - Cliccando su uno dei posti scelti, appare una breve descrizione e altri 3 pulsanti. Questi permettono di creare un percorso dalla posizione dell'utente a quella della meta in tre semplici modi, a piedi, in autobus o in macchina.
 
-#CHI SIAMO
+# CHI SIAMO
 _____________________________________________________________________________________________________________________________
 
 - 5: Arriviamo cosi' alla pagina del "Chi siamo", dove oltre al spiegare appunto chi siamo e quale sarebbe lo scopo dell'applicazione, e' presente un form per poter mandare una mail agli sviluppatori (cioe' noi) per poter fare domande, indicare un posto interessante che non e' stato inserito tra quelli della sua categoria oppure indicare errori nelle pagine di quelli gia' presenti. Per potere far cio' l'utente deve essere registrato.
 
-#PROFILO
+# PROFILO
 _______________________________________________________________________________________________________________________________
 
 - 6: Per ultimo ma non per importanza abbiamo la pagina del profilo. Dopo aver acceduto (o dopo esserci registrati, nel caso di nuovi utenti) entriamo nella pagina dedicata soltanto alla singola persona possedente un'account. Questa puo', d'ora in avanti:
