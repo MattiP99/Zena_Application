@@ -20,11 +20,11 @@ ________________________________________________________________________________
 
  - 2: All'apertura siamo scaraventati nella pagina principale (home, per gli amici inglesi) in cui sono ben distinte le quattro categorie selezionabili, Musei, Rolli, Parchi e Chiese.
  
-        _ Leggermente piu' in basso e' presente una lista scorrevole in cui sono visualizzati i siti di interesse piu' popolari. Il loro voto, ovviamente, e' una media tra tutti i voti che gli utenti registrati all'applicazione hanno lasciato.
+       - Leggermente piu' in basso e' presente una lista scorrevole in cui sono visualizzati i siti di interesse piu' popolari. Il loro voto, ovviamente, e' una media tra tutti i voti che gli utenti registrati all'applicazione hanno lasciato.
         
-        _ Troviamo quindi un'altra lista, che, semplicemente mostra altri luoghi caratteristici per dare all'utilizzatore dell'applicazione un'idea di cosa trovera' in seguito.
+       - Troviamo quindi un'altra lista, che, semplicemente mostra altri luoghi caratteristici per dare all'utilizzatore dell'applicazione un'idea di cosa trovera' in seguito.
         
-        _ Sotto ancora, sempre nella pagina centrale, troviamo una breve descrizione per un maggior conivolgimento del lettore.
+       -  Sotto ancora, sempre nella pagina centrale, troviamo una breve descrizione per un maggior conivolgimento del lettore.
 
 
 ## LUOGO DI INTERESSE 
