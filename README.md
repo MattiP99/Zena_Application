@@ -8,64 +8,63 @@ Questa è un'idea di Marco Tonnarelli e di Mattia Piras:
 ![genova_banner_dashboard](https://user-images.githubusercontent.com/92534255/163691854-9ccb3c98-efdb-4a23-98a5-4900591612eb.png)
 
 
-# SEZIONI DELL'APPLICAZIONE:)
- Vedere il video esplicativo per capire le varie sezioni. Questa desrizione si basa sequanzialmente su cosa viene mostrato in esso.
+# APPLICATION SECTIONS:)
+Our advise is to see the explicative video where it is shown sequentially what it is described here
 
-## CARICAMENTO
+## CHARGING
 ______________________________________________________________________________________________________________________________
 
- - 1: La prima parte e' la pagina di caricamento. Questo lasso di tempo viene usato per caricare i dati dal database.
+ - 1: The first page concerns the charging. During this time only the necessary data from the database are downloded.
  
 ## HOME PAGE
 _______________________________________________________________________________________________________________________________
 
- - 2: All'apertura siamo scaraventati nella pagina principale (home, per gli amici inglesi) in cui sono ben distinte le quattro categorie selezionabili, Musei, Rolli, Parchi e Chiese.
-    - Leggermente piu' in basso e' presente una lista scorrevole in cui sono visualizzati i siti di interesse piu' popolari. Il loro voto, ovviamente, e' una media tra tutti i voti che gli utenti registrati all'applicazione hanno lasciato.
+ - 2: First thing first we find ourselves inside the main page where four sections are well distinguishable  Musei, Rolli, Parchi e Chiese.
+    - Slightly further down is a scrolling list displaying the most popular sites of interest. Their rating, of course, is an average of all the ratings that registered users of the application have left.
         
-    - Troviamo quindi un'altra lista, che, semplicemente mostra altri luoghi caratteristici per dare all'utilizzatore dell'applicazione un'idea di cosa trovera' in seguito.
+    - We then find another list, which simply shows other characteristic places to give the application user an idea of what they will find next.
         
-    -  Sotto ancora, sempre nella pagina centrale, troviamo una breve descrizione per un maggior conivolgimento del lettore.
+    -  Below that, again on the central page, we find a brief description for the reader's convenience.
 
-
-## LUOGO DI INTERESSE 
+## POINTS OF INTEREST
 ___________________________________________________________________________________________________________________
  
- - 3: Una volta cliccato uno dei simboli raffiguranti il sito prescelto, musei in questo caso, veniamo sbalzati in una pagina con tutti i luoghi di quella categoria presenti all'interno del database. Scorrendo questa pagina si possono trovare veramente tantissime scelte tra cui optare.
-Inoltrandoci nella pagina di uno di questi, lanterna di Genova per esempio possiamo notare:
+ - 3: Once we click on one of the symbols representing the chosen site, museums in this case, we are thrown into a page with all the places in that category in the database. As we scroll down this page, we really do have plenty of choices to choose from.
+Entering the page of one of these, lantern of Genoa for example, we can see: 
 
-   - Vi sono 5 immagini per ogni posto che facciamo risaltare quest'ultimo in ogni suo profilo
+   - There are five images for each place that make the place stand out in every profile
         
-   - L'indirizzo del posto; via e interno(se presenti ovviamente) saranno visualizzati (Nel caso si cliccasse sull'icona della mappa, l'utente entrerebbe gia' in questa con visualizzato in essa il luogo che stava visionando )
+   - The address of the place; street and extension (if present, of course) will be displayed (If one clicks on the map icon, the user will already enter this one with the place he was viewing displayed in it)
         
-   - Orari di apertura e chiusura del sito
+   - Site opening and closing times
         
-   - Una descrizione artistico-storica dettagliata per catturare l'attenzione degli appassionati e per educare i piu' giovani (e non solo, perche' non si finisce mai di imparare) in un un modo diverso dal solito.
+   - A detailed artistic-historical description to capture the attention of enthusiasts and to educate the young (and not only, because you never stop learning) in a different way.
 
-## MAPPA
+## MAP
 __________________________________________________________________________________________________________________________________
 
-- 4: Passando ora alla mappa notiamo che:
-    - La zona centrale di Genova e' visualizzata
-    - Sono presenti 4 bottoni sul  fondo della pagina che permettono di visualizzare sulla mappa tutti i posti della categoria schiacciata.
-    - Una barra di ricerca per poter cercare un determinato sito
-    - Un pulsante alla sua sinistra che permette di visionare la propria posiazione
-    - Cliccando su uno dei posti scelti, appare una breve descrizione e altri 3 pulsanti. Questi permettono di creare un percorso dalla posizione dell'utente a quella della meta in tre semplici modi, a piedi, in autobus o in macchina.
+- 4: Turning now to the map, we note that:
+    - The central area of Genoa is displayed
+    - There are 4 buttons at the bottom of the page to display all the places in the crushed category on the map.
+    - A search bar to search for a particular site
+    - A button to the left that allows you to view your location
+    - By clicking on one of the chosen places, a short description and 3 more buttons appear. These allow a route to be created from the user's location to the destination in three simple ways, on foot, by bus or by car.
 
-## CHI SIAMO
+## WHO WE ARE
 _____________________________________________________________________________________________________________________________
 
-- 5: Arriviamo cosi' alla pagina del "Chi siamo", dove oltre al spiegare appunto chi siamo e quale sarebbe lo scopo dell'applicazione, e' presente un form per poter mandare una mail agli sviluppatori (cioe' noi) per poter fare domande, indicare un posto interessante che non e' stato inserito tra quelli della sua categoria oppure indicare errori nelle pagine di quelli gia' presenti. Per potere far cio' l'utente deve essere registrato.
+- 5: This brings us to the 'About Us' page, where in addition to explaining who we are and what the purpose of the application is, there is a form for sending an e-mail to the developers (i.e. us) in order to ask questions, point out an interesting place that has not been included in its category, or point out errors in the pages of those already present. In order to do this, the user must be registered.
 
-## PROFILO
+## PROFILE
 _______________________________________________________________________________________________________________________________
 
-- 6: Per ultimo ma non per importanza abbiamo la pagina del profilo. Dopo aver acceduto (o dopo esserci registrati, nel caso di nuovi utenti) entriamo nella pagina dedicata soltanto alla singola persona possedente un'account. Questa puo', d'ora in avanti:
+- 6: Last but not least, we have the profile page. After logging in (or after registering, in the case of new users) we enter the page dedicated only to the individual person holding an account. This can, from now on:
 
-   - Salvarsi mete che ha addocchiato tra  i suoi prefereiti
+   - Save destinations that he/she has set as favourites
     
-   - Mandare una mail per svariate ragione (come mezionato prima)
+   - Send an email for various reasons (as mentioned before)
     
-   - Dare un voto da 0 a 5 ad ogni posto visto
+   - Give a rating from 0 to 5 for each place seen
     
-   - Scegliere una foto profilo cosi che gli altri utenti possano riconoscerlo
+   - Choose a profile photo so that other users can recognise it
     
